@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = 'https://openspeedtest.com/';//PHP/HTML file or URL used for bots
+$CLOAKING['WHITE_PAGE'] = 'dummy/index.html';//PHP/HTML file or URL used for bots
 $CLOAKING['OFFER_PAGE'] = 'https://www.booking.com/';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'on';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
